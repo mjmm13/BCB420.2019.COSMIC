@@ -1,17 +1,17 @@
-Package: rpt
+Package: BCB420.2019.COSMIC
 Type: Package
-Title: R Package Template
-Version: 1.2.3
-Date: 2019-01-22
+Title: COSMIC Data Analysis
+Version: 1.0
+Date: 2019-02-05
 Authors@R: c(
-    person("Boris", "Steipe", email = "boris.steipe@utoronto.ca", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-1134-6758"))
+    person("McNeil", "Matthew", email = "matthew.mcneil@mail.utoronto.ca", role = c("aut", "cre"))
     )
-Description: A template for an RStudio project of a basic R package with a
-             GitHub repository. rpt follows principles described in
-             Hadley Wickham's R Packages book and is compatible with CRAN
-             guidelines. The project is version controlled, contains testing
-             code, can be installed from GitHub using standard tools, and 
-             includes extensive instructions on how to install and customize.
+Description:  This package takes targeted screen data from the COSMIC database
+              and transforms it to generate mutation rates for every gene present,
+              by both gene and by tissue type. Additionally a sample data set
+              is created based on the lysosome system created by 
+              (Corona & Jackson, 2018).
+
 License: file LICENSE
 Encoding: UTF-8
 LazyData: true
