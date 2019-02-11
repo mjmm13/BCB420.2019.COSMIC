@@ -3,8 +3,6 @@ MIT License
 functionTemplate.R: Copyright (c) 2018  Boris Steipe <https://orcid.org/0000-0002-1134-6758>
 scriptTemplate.R:   Copyright (c) 2018  Boris Steipe <https://orcid.org/0000-0002-1134-6758>
 rptTwee.R:          Copyright (c) 2018  Boris Steipe <https://orcid.org/0000-0002-1134-6758>
-lseq.R:             Copyright (c) 2018  Boris Steipe <https://orcid.org/0000-0002-1134-6758>
-test_lseq.R:        Copyright (c) 2018  Boris Steipe <https://orcid.org/0000-0002-1134-6758>
 README.md:          Copyright (c) 2019  Matthew McNeil
 COSMIC.R:           Copyright (c) 2019  Matthew McNeil
 
